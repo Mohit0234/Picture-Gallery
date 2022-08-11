@@ -927,3 +927,35 @@ body {
   footer .credits a {
     color: #fff;
   }
+/*  */
+.images{
+  border: #111;
+}
+.module{
+display: flex;
+flex-direction: row;
+}
+.module1{
+  display: flex;
+  flex-direction: row;
+
+}
+.module2{
+display: flex;
+flex-direction: row;
+
+}
+.module4{
+display: flex;
+flex-direction: row;
+
+}
+.photo{
+  margin: auto;
+  height: 300px;
+  width: 500px;
+}
+#galler{
+display: flex;
+flex-wrap: wrap;
+}
